@@ -18,11 +18,11 @@ function App() {
         <h2>Login</h2>
       <form>
         <div className="input-container">
-          <label htmlFor="email">Email:</label>
+          <label htmlFor="email">Emaii</label>
           <input type="text" id="username" name="username" required />
         </div>
         <div className="input-container">
-          <label htmlFor="password">Password:</label>
+          <label htmlFor="password">Pas</label>
           <input
             type={passwordShown ? 'text' : 'password'}
             id="password"
